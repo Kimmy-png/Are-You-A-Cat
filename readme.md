@@ -7,7 +7,7 @@ This project serves as an end-to-end demonstration of a machine learning workflo
 
 # 🚀 Live DemoTry the application live here:
 
-[Link to your Streamlit or Hugging Face Spaces app]✨ 
+[are-you-a-cat-aezkxcfim9p7umteca3brb](https://are-you-a-cat-aezkxcfim9p7umteca3brb.streamlit.app/) ✨ 
 
 
 # Key Features
