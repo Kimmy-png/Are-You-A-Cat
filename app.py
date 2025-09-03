@@ -43,9 +43,9 @@ def predict(model, image):
 
 # --- ANTARMUKA UTAMA APLIKASI ---
 
-st.title("🐱 Apakah Ini Kucing?")
+st.title("🐱 Are You A Cat")
 st.write(
-    "Unggah gambar untuk melihat seberapa mirip gambar tersebut dengan kucing "
+    "Unggah selfie untuk melihat seberapa mirip anda dengan kucing "
     "menurut model AI yang telah dilatih pada ribuan gambar kucing dan manusia."
 )
 
